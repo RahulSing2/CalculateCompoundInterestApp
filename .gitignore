@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs
+/CalculateCompoundInterestApp/.vs/CalculateCompoundInterestApp/v16
+/CalculateCompoundInterestApp/.vs/CalculateCompoundInterestApp/DesignTimeBuild
+/CalculateCompoundInterestApp/CalculateCompoundInterestApp/bin/Debug/netcoreapp3.1
+/CalculateCompoundInterestApp/CalculateCompoundInterestApp/.vs
+/CalculateCompoundInterestApp/CalculateCompoundInterestApp/obj/Debug/netcoreapp3.1
+/CalculateCompoundInterestApp/CalculateInterestTest/bin/Debug/netcoreapp3.1
+/CalculateCompoundInterestApp/CalculateInterestTest/obj/Release/netcoreapp3.1
+/CalculateCompoundInterestApp/CalculateInterestTest/obj/Debug/netcoreapp3.1
+/CalculateCompoundInterestApp/CalculateInterestTest/obj
+/CalculateCompoundInterestApp/CompoundInterestLibary/bin/Debug/netcoreapp3.1
+/CalculateCompoundInterestApp/CalculateCompoundInterestApp/obj/Release/netcoreapp3.1
+/CalculateCompoundInterestApp/CalculateCompoundInterestApp/obj
+/CalculateCompoundInterestApp/CalculateInterestTest
